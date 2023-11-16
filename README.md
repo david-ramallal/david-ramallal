@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 #### Languages
 
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=david-ramallal&layout=compact)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=david-ramallal&layout=donut&langs_count=8)
 
 
 #### GitHub Stats
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=david-ramallal&show_icons=true)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=david-ramallal&show_icons=true&theme=radical&rank_icon=github&include_all_commits=true&hide=issues)
