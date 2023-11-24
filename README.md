@@ -36,6 +36,6 @@ In these years that I have been involved in the sector, I have used multiple too
 <code><img height="50" alt="latex" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opengl/opengl.png"></code>
 <code><img height="50" alt="blender" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/512px-Blender_logo_no_text.svg.png"></code>
 <code><img height="50" alt="apache lucene" src="https://vox.veritas.com/t5/image/serverpage/image-id/4194i89A48C8E1BD9CB20?v=v2"></code>
-<code><img height="50" alt="ms project" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/MS_Project_Logo.png/600px-MS_Project_Logo.png"></code>
+<!--<code><img height="50" alt="ms project" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/MS_Project_Logo.png/600px-MS_Project_Logo.png"></code>-->
 
 
