@@ -1,41 +1,47 @@
-### Hi there 👋
+# Welcome to My GitHub Profile! 👋
 
-<!--
-**david-ramallal/david-ramallal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### David García Ramallal
 
-Here are some ideas to get you started:
+I am a **Computer Engineer** with a Master's degree in progress. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 **Master's Student in Computer Engineering** at **Universidade da Coruña**  
+  - Graduated with a **Bachelor's Degree in Computer Engineering** at **Universidade da Coruña**
+  - **Bachelor's Thesis**: *Study of the taxonomic separability of beetles of the genus Pimelia using deep learning*
+- 💼 Currently working as a **Full Stack Developer**, specializing in:
+  - Frontend: **React**, **TypeScript**
+  - Backend: **Java**, **Spring**
+  - Databases: **SQL**
+- 🌍 Native in **Spanish** and **Galician**, fluent in **English** (Cambridge C1 CAE)
 
- - My name is **David García Ramallal**
- - I am currently a **Computer Engineering Degree** student at **Universidade da Coruña** in Spain. 
- - Specifically, I am following the **Computer Science** itinenary.
- - **Spanish** and **Galician** are my native languages but I am also fluent in **English** (Cambridge C1 CAE)
 
-   
-#### Languages
-In these years that I have been involved in the sector, I have used multiple tools and languages. Some of the most relevant ones are the following: </br>
+---
 
-<code><img height="50" alt="java" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="50" alt="python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="50" alt="c" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
-<code><img height="50" alt="ocaml" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ocaml/ocaml.png"></code>
-<code><img height="50" alt="julia" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/julia/julia.png"></code>
-<code><img height="50" alt="elixir" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/elixir/elixir.png"></code>
-<code><img height="50" alt="sql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-<code><img height="50" alt="git" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="50" alt="latex" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png"></code>
-<code><img height="50" alt="latex" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opengl/opengl.png"></code>
-<code><img height="50" alt="blender" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/512px-Blender_logo_no_text.svg.png"></code>
-<code><img height="50" alt="apache lucene" src="https://vox.veritas.com/t5/image/serverpage/image-id/4194i89A48C8E1BD9CB20?v=v2"></code>
-<!--<code><img height="50" alt="ms project" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/MS_Project_Logo.png/600px-MS_Project_Logo.png"></code>-->
+### Technologies & Tools
+
+Over the years, I’ve gained experience with a variety of programming languages, frameworks, and tools. Below are some of the most relevant:
+
+<div align="center">
+
+<!-- Row 1 -->
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![OCaml](https://img.shields.io/badge/OCaml-%23E98407.svg?style=for-the-badge&logo=ocaml&logoColor=white)
+
+<!-- Row 2 -->
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+<!-- Row 3 -->
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+
+</div>
+
+---
 
 
