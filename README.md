@@ -7,10 +7,11 @@ I am a **Computer Engineer** with a Master's degree in progress.
 - 🎓 **Master's Student in Computer Engineering** at **Universidade da Coruña**  
   - Graduated with a **Bachelor's Degree in Computer Engineering** at **Universidade da Coruña**
   - **Bachelor's Thesis**: *Study of the taxonomic separability of beetles of the genus Pimelia using deep learning*
-- 💼 Currently working as a **Full Stack Developer**, specializing in:
+- 💼 Currently working as a **Full Stack + GIS Developer**, specializing in:
   - Frontend: **React**, **TypeScript**
   - Backend: **Java**, **Spring**
-  - Databases: **SQL**
+  - Databases: **MySQL**, **PostgreSQL**, **PostGIS**
+  - GIS: **QGIS**, **OpenLayers**
 - 🌍 Native in **Spanish** and **Galician**, fluent in **English** (Cambridge C1 CAE)
 
 
@@ -35,10 +36,15 @@ Over the years, I’ve gained experience with a variety of programming languages
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 <!-- Row 3 -->
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+
+<!-- Row 4 -->
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
+![OpenLayers](https://img.shields.io/badge/OpenLayers-1F6B75?style=for-the-badge&logo=openlayers&logoColor=white)
+
 
 </div>
 
